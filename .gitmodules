@@ -9,7 +9,7 @@
 	url = https://github.com/google/googletest
 [submodule "third_party/sjpeg"]
 	path = third_party/sjpeg
-	url = https://github.com/webmproject/sjpeg.git
+	url = https://github.com/ricardobtez/sjpeg.git
 [submodule "third_party/skcms"]
 	path = third_party/skcms
 	url = https://skia.googlesource.com/skcms
